@@ -59,7 +59,7 @@ public final class RedisBungeeExpansion extends PlaceholderExpansion implements 
 
     @Override
     public String getVersion() {
-        return "2.0.2";
+        return "2.0.3";
     }
 
     @Override
